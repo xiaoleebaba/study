@@ -1,0 +1,3 @@
+1、当你finalshell连接不上Ubuntu虚拟机时，你需要安装openssh-server.
+2、当你在Ubuntu中想连接别的主机，你需要安装openssh-client.
+
